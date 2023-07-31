@@ -1,13 +1,6 @@
-# blackjack_game
-A simple blackjack game
-
-cd into directory and start the server using "node app.mjs" 
-
-Then cd into public/javascripts and run "node main.mjs" to access game
-
 # Blackjack Game
 
-A simple blackjack game
+A simple blackjack game built from scratch using vanilla html, css, and javascript. The project was a learning experience for builting frontend UI and connecting the client to a MongoDB database. 
 
 ## Description
 
